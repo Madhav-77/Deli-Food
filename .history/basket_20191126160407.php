@@ -1,0 +1,1 @@
+<html><body><?php echo test[0].name; ?></body></html>
